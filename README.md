@@ -22,8 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/insurance-premium-prediction.git
-Install dependencies:
+https://github.com/777santosh/Medical-insurance-cost-prediction-Mechine-learning.git
 
 bash
 Copy code
